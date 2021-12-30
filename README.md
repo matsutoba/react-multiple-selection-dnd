@@ -1,5 +1,6 @@
 # React: multiple selection sample for react-dnd
 
+https://codesandbox.io/s/matsutoba-react-multiple-selection-dnd-btu0n
 
 ## Overview
 I wanted to use react-dnd to achieve drag and drop of multiple objects.
@@ -8,6 +9,8 @@ For multiple selection, I used the "react-selecto" library.
 For single dragging, I just used the function of react-dnd.
 
 In the case of dragging after multiple selection, the selected objects determined by react-selecto were displayed on the custom layer as drag targets.
+
+
 
 
 ### `npm start`
